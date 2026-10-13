@@ -3,8 +3,8 @@
 
 <b>Discipline | <b>Fill your discipline name here
 :--|:--|
-<b> Lab | <b> LAB Experiment 01
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> NEW LAB
+<b> Experiment|     <b> Experiment unknown 01
 
 ### About the Experiment 
 
